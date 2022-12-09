@@ -1,13 +1,13 @@
-python-for-physical-scientists
+Python-for-Civil-Engineers
 =================
 
-<https://lucydot.github.io/python_novice/>
+<https://craig-warren.github.io/python_novice/>
 
 This is an introduction to Python for non-programmers based on content from
 the two software carpentry courses:
 [python-novice-gapminder][python-novice-gapminder] and
 [python-novice-inflammation][python-novice-inflammation]. It has been adapted
-for use with scientists in the physical sciences, using UVVis data as a motivating example.
+for use with Civil Engineering students.
 
 
 [python-novice-inflammation]: https://github.com/swcarpentry/python-novice-inflammation

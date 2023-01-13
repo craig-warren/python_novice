@@ -10,7 +10,7 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Python for Physicists"
+title: "Python for Civil Engineers"
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
@@ -25,7 +25,7 @@ kind: "lesson"
 repository: <USERNAME>/<PROJECT>
 
 # Email address, no mailto:
-email: "l.whalley@northumbria.ac.uk"
+email: "craig.warren@northumbria.ac.uk"
 
 # Sites.
 amy_site: "https://amy.software-carpentry.org/workshops"

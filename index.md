@@ -13,7 +13,7 @@ but can be taught using a regular Python interpreter as well
 
 
 > ## Questionnaire
-> Please complete [this questionnaire](https://bit.ly/KD4014_questionnaire) at the start of the course.
+> Please complete [this questionnaire](https://forms.office.com/e/WBBt2Lftc5) at the start of the course.
 {: .prereq}
 
 <!-- > ## Accompanying resources (KD4014 Northumbria course)

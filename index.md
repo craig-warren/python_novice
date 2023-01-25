@@ -6,7 +6,7 @@ root: .
 This course
 - is an introduction to programming in Python
 for people with little or no previous programming experience
-- is aimed at Civil Engineers: using the analysis of XXXXXX data as a motivating example
+- is aimed at Civil Engineers: using the analysis of hydrology data as a motivating example
 - references the Jupyter Notebook,
 but can be taught using a regular Python interpreter as well
 - uses Python 3 rather than Python 2
@@ -26,8 +26,8 @@ but can be taught using a regular Python interpreter as well
 >    Please see [the setup instructions]({{ page.root }}/setup/)
 >    for details.
 >
-> 2. Learners should download the data before class.
+<!-- > 2. Learners should download the data before class.
 >    Please see [the setup instructions]({{page.root}}/setup/)
->    for details.
+>    for details. -->
 >  
 {: .prereq}

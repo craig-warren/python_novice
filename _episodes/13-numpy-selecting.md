@@ -130,12 +130,12 @@ GaAs_transmittance = data[:,3]
 >
 > Can you work out how to select a row of a two-dimensional array?
 > 
-> > If `A` is the two dimensional array, `A[0,:]` will select the first row. 
-> > This can be shortened to `A[0]`, as the row is the primary axis.
-> > {: .solution}
+> If `A` is the two dimensional array, `A[0,:]` will select the first row. 
+> This can be shortened to `A[0]`, as the row is the primary axis.
+> {: .solution}
 {: .challenge}
 
-> ## Slicing and Stacking Arrays
+<!-- > ## Slicing and Stacking Arrays
 >
 > Arrays can be concatenated and stacked on top of one another,
 > using NumPy's `vstack` and `hstack` functions for vertical and horizontal stacking, respectively.
@@ -225,4 +225,4 @@ GaAs_transmittance = data[:,3]
 > > ~~~
 > > {: .output}
 > {: .solution}
-{: .challenge}
+{: .challenge} -->

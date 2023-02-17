@@ -371,7 +371,7 @@ result of call is: None
 > {: .solution}
 {: .challenge}
 
-> ## Simulating a dynamical system
+<!-- > ## Simulating a dynamical system
 >
 > In mathematics, a [dynamical system](https://en.wikipedia.org/wiki/Dynamical_system) is a system in which a function describes the time dependence of a point in a geometrical space.  A canonical example of a dynamical system is a system called the [logistic map](https://en.wikipedia.org/wiki/Logistic_map).
 >
@@ -383,7 +383,7 @@ result of call is: None
 > 3. Encapsulate the logic of your `for` loop into a function called `iterate` that takes the initial condition as its first input, the parameter `t_final` as its second input and the parameter `r` as its third input. The function should return the list of values representing the state of the logistic map at time _t=0,1,...,t_final_.
 >
 >
-{: .challenge}
+{: .challenge} -->
 
 > ## Error propagation
 >

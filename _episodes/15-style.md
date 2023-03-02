@@ -37,7 +37,7 @@ and to understand what their contributions should look like.
 The [PEP8 application and Python library](https://pypi.python.org/pypi/pep8)
 can check your code for compliance with PEP8.
 
-## Use assertions to check for internal errors.
+<!-- ## Use assertions to check for internal errors.
 
 Assertions are a simple, but powerful method for making sure that the context in which your code is executing is as you expect.
 
@@ -48,7 +48,7 @@ def calc_bulk_density(mass, volume):
 ~~~
 {: .python}
 
-If the assertion is `False`, the Python interpreter raises an `AssertionError` runtime exception. The source code for the expression that failed will be displayed as part of the error message. To ignore assertions in your code run the interpreter with the '-O' (optimize) switch. Assertions should contain only simple checks and never change the state of the program. For example, an assertion should never contain an assignment.
+If the assertion is `False`, the Python interpreter raises an `AssertionError` runtime exception. The source code for the expression that failed will be displayed as part of the error message. To ignore assertions in your code run the interpreter with the '-O' (optimize) switch. Assertions should contain only simple checks and never change the state of the program. For example, an assertion should never contain an assignment. -->
 
 ## Use docstrings to provide help.
 
@@ -150,7 +150,7 @@ calc_bulk_density(mass, volume)
 
 > ## Improve the Code Quality I
 >
-> 1. Read the [Code Quality criteria](../files/CodeQuality.pdf) for the course assessment.
+> 1. Read the Code Quality tips document (on Bb).
 > 2. Read the code below and predict what it does
 > 3. Run the code and inspect the output
 > 3. Refactor the program to improve the Code Quality. There are six edits (or more!) that can be made.

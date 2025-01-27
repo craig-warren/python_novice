@@ -38,10 +38,10 @@ in advance of the workshop.
 
 3. Install Python 3 using all of the defaults for installation.
 
-## Getting the Data
+<!-- ## Getting the Data
 
 To obtain the data we will be using, download the file 
-[transmittance.csv]({{page.root}}/data/transmittance.csv).
+[transmittance.csv]({{page.root}}/data/transmittance.csv). -->
 
 ## Starting Python
 
